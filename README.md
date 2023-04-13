@@ -45,6 +45,6 @@ Oto niektóre z technologii, z którymi pracowałem:
 
 ##:telephone: Contact
 [![GitHub](https://img.shields.io/github/followers/JakubPiasecki?label=Follow&style=social)](https://github.com/JakubPiasecki)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jakubpi/)](https://www.linkedin.com/in/jakubpi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakubpi/)
 
 
