@@ -43,7 +43,7 @@ Oto niektóre z technologii, z którymi pracowałem:
 
 ![Jakub Piasecki GitHub Stats](https://github-readme-stats.vercel.app/api?username=JakubPiasecki&show_icons=true&theme=tokyonight)
 
-##:telephone: Contact
+## :telephone: Contact
 [![GitHub](https://img.shields.io/github/followers/JakubPiasecki?label=Follow&style=social)](https://github.com/JakubPiasecki)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakubpi/)
 
