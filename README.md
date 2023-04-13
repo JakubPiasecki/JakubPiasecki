@@ -8,7 +8,7 @@ Oto niektóre z technologii, z którymi pracowałem:
 
 ### Języki programowania:
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ### Frameworki:
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -43,8 +43,8 @@ Oto niektóre z technologii, z którymi pracowałem:
 
 ![Jakub Piasecki GitHub Stats](https://github-readme-stats.vercel.app/api?username=JakubPiasecki&show_icons=true&theme=tokyonight)
 
-###:earth_africa: Social Media & Contact
-Linkedin Badge
-GitHub Badge
+##:telephone: Contact
+[![GitHub](https://img.shields.io/github/followers/JakubPiasecki?label=Follow&style=social)](https://github.com/JakubPiasecki)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jakubpi/)](https://www.linkedin.com/in/jakubpi/)
 
 
