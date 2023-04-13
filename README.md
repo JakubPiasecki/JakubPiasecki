@@ -41,7 +41,7 @@ Oto niektóre z technologii, z którymi pracowałem:
 
 ## 📊 Statystyki GitHub
 
-![Jakub Piasecki GitHub Stats](https://github-readme-stats.vercel.app/api?username=JakubPiasecki&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubPiasecki&layout=compact&theme=tokyonight)
 
 ## Kontakt
 
