@@ -1,4 +1,3 @@
-![Jakub Piasecki](https://github.com/JakubPiasecki/JakubPiasecki/blob/main/github.jpg)
 <div align="center">
 
 Cześć! Jestem Jakub Piasecki, student Polsko-Japońskiej Akademii Technik Komputerowych. :wave:
