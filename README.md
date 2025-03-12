@@ -1,9 +1,3 @@
-<div align="center">
-
-Cześć! Jestem Jakub Piasecki, student Polsko-Japońskiej Akademii Technik Komputerowych. :wave:
-
-Oto niektóre z technologii, z którymi pracowałem:
-</div>
 
 ### Języki programowania:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
